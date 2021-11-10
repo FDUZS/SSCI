@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Shuai subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="CSS" title="CSS">
+            <outline type="rss" text="Journal of Social Computing" title="Journal of Social Computing" xmlUrl="https://ieeexplore.ieee.org/rss/TOC8964404.XML" htmlUrl="http://ieeexplore.ieee.org"/>
+            <outline type="rss" text="Journal of Computational Social Science" title="Journal of Computational Social Science" xmlUrl="https://link.springer.com/search.rss?search-within=Journal&amp;facet-journal-id=42001&amp;query=" htmlUrl="http://link.springer.com"/>
+        </outline>
+        <outline text="SSCI" title="SSCI">
+            <outline type="rss" text="Journal of Social Policy" title="Journal of Social Policy" xmlUrl="https://www.cambridge.org/core/rss/product/id/627485BDBFFECDFAE1DA00186BC7D7DA" htmlUrl="https://www.cambridge.org/core/journals/journal-of-social-policy/latest-issue"/>
+            <outline type="rss" text="Journal of Public Administration Research and Theory" title="Journal of Public Administration Research and Theory" xmlUrl="https://academic.oup.com/rss/site_5479/3340.xml" htmlUrl="http://academic.oup.com/jpart"/>
+            <outline type="rss" text="Public Administration Review" title="Public Administration Review" xmlUrl="https://onlinelibrary.wiley.com/feed/15406210/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/15406210?af=R"/>
+            <outline type="rss" text="Public Management Review" title="Public Management Review" xmlUrl="https://www.tandfonline.com/feed/rss/rpxm20" htmlUrl="https://www.tandfonline.com/loi/rpxm20?af=R"/>
+            <outline type="rss" text="Policy and Society" title="Policy and Society" xmlUrl="https://www.tandfonline.com/feed/rss/rpas20" htmlUrl="https://www.tandfonline.com/loi/rpas20?af=R"/>
+            <outline type="rss" text="Public Administration" title="Public Administration" xmlUrl="https://onlinelibrary.wiley.com/feed/14679299/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/14679299?af=R"/>
+            <outline type="rss" text=" Public Policy and Administration" title=" Public Policy and Administration" xmlUrl="http://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=ppaa&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/ppaa?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <outline type="rss" text="Journal of Public Policy" title="Journal of Public Policy" xmlUrl="https://www.cambridge.org/core/rss/product/id/36840434E1E3E412FFAA6832AA9488AA" htmlUrl="https://www.cambridge.org/core/journals/journal-of-public-policy/latest-issue"/>
+            <outline type="rss" text="Human Service Organizations" title="Human Service Organizations" xmlUrl="https://www.tandfonline.com/feed/rss/wasw21" htmlUrl="https://www.tandfonline.com/loi/wasw21?af=R"/>
+            <outline type="rss" text="Policy Studies" title="Policy Studies" xmlUrl="https://www.tandfonline.com/feed/rss/cpos20" htmlUrl="https://www.tandfonline.com/loi/cpos20?af=R"/>
+            <outline type="rss" text="International Review of Administrative Sciences" title="International Review of Administrative Sciences" xmlUrl="https://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=rasb&amp;type=etoc&amp;feed=rss"/>
+            <outline type="rss" text="Journal of Chinese Governance" title="Journal of Chinese Governance" xmlUrl="https://www.tandfonline.com/feed/rss/rgov20" htmlUrl="https://www.tandfonline.com/loi/rgov20?af=R"/>
+            <outline type="rss" text="Journal of European Public Policy" title="Journal of European Public Policy" xmlUrl="https://www.tandfonline.com/feed/rss/rjpp20" htmlUrl="https://www.tandfonline.com/loi/rjpp20?af=R"/>
+            <outline type="rss" text="Science and Public Policy" title="Science and Public Policy" xmlUrl="https://academic.oup.com/rss/site_5241/3109.xml" htmlUrl="http://academic.oup.com/spp"/>
+            <outline type="rss" text="Policy Studies Journal" title="Policy Studies Journal" xmlUrl="https://onlinelibrary.wiley.com/feed/15410072/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/15410072?af=R"/>
+            <outline type="rss" text=" Environment and Planning C: Politics and Space" title=" Environment and Planning C: Politics and Space" xmlUrl="http://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=epcb&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/epcb?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <outline type="rss" text="Critical Policy Studies" title="Critical Policy Studies" xmlUrl="https://www.tandfonline.com/feed/rss/rcps20" htmlUrl="https://www.tandfonline.com/loi/rcps20?af=R"/>
+            <outline type="rss" text="Lex Localis" title="Lex Localis" xmlUrl="http://pub.lex-localis.info/index.php/LexLocalis/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="http://pub.lex-localis.info/index.php/LexLocalis"/>
+            <outline type="rss" text="Climate Policy" title="Climate Policy" xmlUrl="https://www.tandfonline.com/feed/rss/tcpo20" htmlUrl="https://www.tandfonline.com/loi/tcpo20?af=R"/>
+            <outline type="rss" text="International Public Management Journal" title="International Public Management Journal" xmlUrl="https://www.tandfonline.com/feed/rss/upmj20" htmlUrl="https://www.tandfonline.com/loi/upmj20?af=R"/>
+            <outline type="rss" text="American Review of Public Administration" title="American Review of Public Administration" xmlUrl="http://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=arpb&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/arpb?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <outline type="rss" text="Review of Policy Research" title="Review of Policy Research" xmlUrl="https://onlinelibrary.wiley.com/feed/15411338/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/15411338?af=R"/>
+            <outline type="rss" text="Canadian Public Administration" title="Canadian Public Administration" xmlUrl="https://onlinelibrary.wiley.com/feed/17547121/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/17547121?af=R"/>
+            <outline type="rss" text="Public Money &amp; Management" title="Public Money &amp; Management" xmlUrl="https://www.tandfonline.com/feed/rss/rpmm20" htmlUrl="https://www.tandfonline.com/loi/rpmm20?af=R"/>
+            <outline type="rss" text=" Public Personnel Management" title=" Public Personnel Management" xmlUrl="http://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=ppmd&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/ppmd?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <outline type="rss" text="Review of Public Personnel Administration" title="Review of Public Personnel Administration" xmlUrl="http://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=ropa&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/ropa?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <outline type="rss" text="POLICY POLITICS" title="POLICY POLITICS" xmlUrl="http://api.ingentaconnect.com/content/tpp/pap/latest?format=rss" htmlUrl="https://www.ingentaconnect.com/content/tpp/pap/latest"/>
+            <outline type="rss" text="Local Government Studies" title="Local Government Studies" xmlUrl="https://www.tandfonline.com/feed/rss/flgs20" htmlUrl="https://www.tandfonline.com/loi/flgs20?af=R"/>
+            <outline type="rss" text="Governance" title="Governance" xmlUrl="https://onlinelibrary.wiley.com/feed/14680491/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/14680491?af=R"/>
+            <outline type="rss" text="Public Performance &amp; Management Review" title="Public Performance &amp; Management Review" xmlUrl="https://www.tandfonline.com/feed/rss/mpmr20" htmlUrl="https://www.tandfonline.com/loi/mpmr20?af=R"/>
+            <outline type="rss" text=" Journal of European Social Policy" title=" Journal of European Social Policy" xmlUrl="http://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=espa&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/espa?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <outline type="rss" text="Regulation &amp; Governance" title="Regulation &amp; Governance" xmlUrl="https://onlinelibrary.wiley.com/feed/17485991/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/17485991?af=R"/>
+            <outline type="rss" text="Contemporary Economic Policy" title="Contemporary Economic Policy" xmlUrl="https://onlinelibrary.wiley.com/feed/14657287/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/14657287?af=R"/>
+            <outline type="rss" text="Australian Journal of Public Administration" title="Australian Journal of Public Administration" xmlUrl="https://onlinelibrary.wiley.com/feed/14678500/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/14678500?af=R"/>
+            <outline type="rss" text="Nonprofit Management and Leadership" title="Nonprofit Management and Leadership" xmlUrl="https://onlinelibrary.wiley.com/feed/15427854/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/15427854?af=R"/>
+            <outline type="rss" text="Policy Sciences" title="Policy Sciences" xmlUrl="https://link.springer.com/search.rss?search-within=Journal&amp;facet-journal-id=11077&amp;query=" htmlUrl="http://link.springer.com"/>
+            <outline type="rss" text="Journal of Comparative Policy Analysis: Research and Practice" title="Journal of Comparative Policy Analysis: Research and Practice" xmlUrl="https://www.tandfonline.com/feed/rss/fcpa20" htmlUrl="https://www.tandfonline.com/loi/fcpa20?af=R"/>
+            <outline type="rss" text="Journal of Policy Analysis and Management" title="Journal of Policy Analysis and Management" xmlUrl="https://onlinelibrary.wiley.com/feed/15206688/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/15206688?af=R"/>
+            <outline type="rss" text="Journal of Accounting and Public Policy" title="Journal of Accounting and Public Policy" xmlUrl="http://rss.sciencedirect.com/publication/science/02784254" htmlUrl="https://www.sciencedirect.com/journal/journal-of-accounting-and-public-policy"/>
+            <outline type="rss" text="Social Policy &amp; Administration" title="Social Policy &amp; Administration" xmlUrl="https://onlinelibrary.wiley.com/feed/14679515/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/14679515?af=R"/>
+            <outline type="rss" text="Administration &amp; Society" title="Administration &amp; Society" xmlUrl="http://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=aasb&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/aasb?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+        </outline>
+    </body>
+</opml>
